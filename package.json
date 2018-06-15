@@ -1,0 +1,12 @@
+{
+  "name": "eggGraphQL",
+  "version": "1.0.0",
+  "description": "first graphql project",
+  "main": "app.js",
+  "repository": "https://github.com/legiahoang/eggGraphQL",
+  "author": "HoangLG",
+  "license": "MIT",
+  "dependencies": {
+    "graphql": "^0.13.2"
+  }
+}
