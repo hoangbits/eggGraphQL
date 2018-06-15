@@ -10,4 +10,7 @@ const root = { mew: () => 'Hello world!' };
 
 graphql(schema, '{ mew }', root).then((response) => {
   console.log(response);
+  /*
+  {data: { mew: 'Hello world!'}}
+  */
 });
